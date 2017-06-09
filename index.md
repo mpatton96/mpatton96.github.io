@@ -4,5 +4,9 @@
 <p>
 Go Ducks!!
 </p>
+<h5>Hello! My name is Mike and this is my CIT 281 Portfolio</h5>
+[Project 2](https://uo-cit.github.io/p2-17s-mpatton96/)
 
-[My hello-world repo on github](https://github.com/mpatton96/hello-world)
+[Project 3](https://uo-cit.github.io/p3-17s-mpatton96/)
+
+[Project 4](https://uo-cit.github.io/p4-17s-mpatton96/)
